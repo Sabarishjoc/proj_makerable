@@ -14,8 +14,8 @@
 <img width="1280" alt="Screenshot 2024-01-06 162224" src="https://github.com/Sabarishjoc/proj_makerable/assets/129573072/947a7041-5a8e-4140-b269-c7a8818f1a8a">
 
                                           INSTALLATION OF KUBE AND SETTING UP 
-<img width="1280" alt="Screenshot 2024-01-06 164250" src="https://github.com/Sabarishjoc/proj_makerable/assets/129573072/50afa965-8eed-42dd-ac9e-9af70a188f0d">
-<img width="1280" alt="Screenshot 2024-01-06 164616" src="https://github.com/Sabarishjoc/proj_makerable/assets/129573072/566ec8b8-5262-403e-b34e-89fc8c86122c">
-<img width="1280" alt="Screenshot 2024-01-06 165315" src="https://github.com/Sabarishjoc/proj_makerable/assets/129573072/1135ecd4-14b4-4ded-b16a-1b14a19d69c3">
-<img width="1280" alt="Screenshot 2024-01-06 165423" src="https://github.com/Sabarishjoc/proj_makerable/assets/129573072/a6feed7b-503c-44b1-88bb-2dba9a30ad9f">
-                                            
+<img width="1280" alt="Screenshot 2024-01-06 164250" src="https://github.com/Sabarishjoc/proj_makerable/assets/129573072/593d2187-0de1-4205-b62d-fed2985a08b5">
+<img width="1280" alt="Screenshot 2024-01-06 164616" src="https://github.com/Sabarishjoc/proj_makerable/assets/129573072/a8b3d03b-a0ed-454f-99f9-a895f35732a2">
+<img width="1280" alt="Screenshot 2024-01-06 165315" src="https://github.com/Sabarishjoc/proj_makerable/assets/129573072/3ad8d986-4f2b-41b6-90d3-aa57f097036c">
+<img width="1280" alt="Screenshot 2024-01-06 165423" src="https://github.com/Sabarishjoc/proj_makerable/assets/129573072/f7069105-0682-499d-8946-f7e9c8282a3d">
+
