@@ -1,4 +1,4 @@
-                                  INSTALLATION OF DOCKER
+                                             INSTALLATION OF DOCKER
 <img width="1280" alt="Screenshot 2024-01-06 150555" src="https://github.com/Sabarishjoc/proj_makerable/assets/129573072/ba15ef62-7689-4496-92be-614173dc4967">
 
                                             CONTAINERIZING THE APPLICATION
