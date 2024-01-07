@@ -8,3 +8,7 @@
 
                                             WEBPAGE OF THE APPLICATION
 <img width="1280" alt="Screenshot 2024-01-06 150823" src="https://github.com/Sabarishjoc/proj_makerable/assets/129573072/ab49981b-b67d-4d12-a53d-6498eb65df17">
+
+                                            SETTING UP THE JENKINS
+                                            <img width="1280" alt="Screenshot 2024-01-06 152859" src="https://github.com/Sabarishjoc/proj_makerable/assets/129573072/a0ba9325-7323-424a-bfda-3eb2a14bb992">
+<img width="1280" alt="Screenshot 2024-01-06 162224" src="https://github.com/Sabarishjoc/proj_makerable/assets/129573072/947a7041-5a8e-4140-b269-c7a8818f1a8a">
