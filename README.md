@@ -1,54 +1,8 @@
-# Simple Node with Express + PostgreSQL Server
-
-[![Build Status](https://travis-ci.org/rwieruch/node-express-postgresql-server.svg?branch=master)](https://travis-ci.org/rwieruch/node-express-postgresql-server) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/) [![Greenkeeper badge](https://badges.greenkeeper.io/rwieruch/node-express-postgresql-server.svg)](https://greenkeeper.io/)
-
-An easy way to get started with a Express server with PostgreSQL with Node.js. [Read more about it.](https://www.robinwieruch.de/postgres-express-setup-tutorial/)
-
-## Features
-
-- Express
-- REST API
-- PostgreSQL
-
-## Requirements
-
-- [node & npm](https://nodejs.org/en/)
-- [git](https://www.robinwieruch.de/git-essential-commands/)
-
-## Installation
-
-- `git clone git@github.com:rwieruch/node-express-postgresql-server.git`
-- `cd node-express-postgresql-server`
-- `npm install`
-- `docker-compose up`
-- `npm start`
-- optional: include _.env_ in your _.gitignore_
-
-### GET Routes
-
-- visit http://localhost:3000
-  - /messages
-  - /messages/1
-  - /users
-  - /users/1
-
-### Beyond GET Routes
-
-#### CURL
-
-- Create a message with:
-  - `curl -X POST -H "Content-Type:application/json" http://localhost:3000/messages -d '{"text":"Hi again, World"}'`
-- Delete a message with:
-  - `curl -X DELETE -H "Content-Type:application/json" http://localhost:3000/messages/1`
-
-#### Postman
-
-- Install [Postman](https://www.getpostman.com/apps) to interact with REST API
-- Create a message with:
-  - URL: http://localhost:3000/messages
-  - Method: POST
-  - Body: raw + JSON (application/json)
-  - Body Content: `{ "text": "Hi again, World" }`
-- Delete a message with:
-  - URL: http://localhost:3000/messages/1
-  - Method: DELETE
+                                INSTALLATION OF DOCKER
+<img width="1280" alt="Screenshot 2024-01-06 150555" src="https://github.com/Sabarishjoc/proj_makerable/assets/129573072/ba15ef62-7689-4496-92be-614173dc4967">
+                              CONTAINERIZING THE APPLICATION
+<img width="1280" alt="Screenshot 2024-01-06 150642" src="https://github.com/Sabarishjoc/proj_makerable/assets/129573072/e50c3ffc-06f0-40f4-8745-dd04a507a56c">
+<img width="1280" alt="Screenshot 2024-01-06 150715" src="https://github.com/Sabarishjoc/proj_makerable/assets/129573072/c9cff1d7-3239-4693-af6e-b12c1cd24bad">
+<img width="1280" alt="Screenshot 2024-01-06 150807" src="https://github.com/Sabarishjoc/proj_makerable/assets/129573072/ba70be98-b9ab-4a26-9a24-7e5145a8880f">
+                WEBPAGE OF THE APPLICATION
+<img width="1280" alt="Screenshot 2024-01-06 150823" src="https://github.com/Sabarishjoc/proj_makerable/assets/129573072/ab49981b-b67d-4d12-a53d-6498eb65df17">
